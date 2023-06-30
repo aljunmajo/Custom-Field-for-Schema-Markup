@@ -1,6 +1,6 @@
 ## _This is the GitHub repository for a simple WordPress plugin that can be used to add Custom Schema Markup._
 
-Here are the steps on how to use this plugin. We've also provided video links for each step for further guidance. If you want to learn more, feel free to join our FB Group via this link.
+Here are the steps on how to use this plugin. We've also provided video links for each step for further guidance. If you want to learn more, feel free to join our FB Group [SEO & Web Development Tutorials Philippines](https://www.facebook.com/groups/webdevelopmentandseofreelancing) via this link.
 
 ## Step 1: Download the Plugin. 
 Watch this video tutorial here.
@@ -12,6 +12,7 @@ Here's a video guide on how to do it.
 
     Option B is to import the ACF JSON file to create the Custom Field. 
 This video will show you how.
+[DOWNLOAD the ACF JSON File](https://www.dropbox.com/sh/t6y04o85s8lfa3b/AAC3RyVJfdfDg1iKi1kE4-8Va?dl=0)
 
 ## Step 4: Open the Post Editor and add your Custom Schema markup. 
 Watch this video to see how it's done.
