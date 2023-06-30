@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Field for adding JSON LD Schema Markup
-Plugin URI:  https://www.aljunmajo.com/
+Plugin URI:  https://github.com/aljunmajo/Custom-Field-for-Schema-Markup
 Description: Add JSON LD Schema in head section
 Version:     1.0.0
 Author:      Aljun
