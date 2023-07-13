@@ -2,6 +2,8 @@
 
 Here are the steps on how to use this plugin. We've also provided video links for each step for further guidance. If you want to learn more, feel free to join our FB Group via this link [SEO & Web Development Tutorials Philippines](https://www.facebook.com/groups/webdevelopmentandseofreelancing) .
 
+Please check this Tagalog Video Tutorial: [How To Add Custom Schema Markup](https://www.erlwebworks.com/courses/adding-custom-schema-markup-using-custom-plugin-and-acf/)
+
 ## Step 1: Download the Plugin. 
 Watch this video tutorial here(coming soon).
 ## Step 2: Install the ACF plugin. 
